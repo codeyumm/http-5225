@@ -18,7 +18,7 @@
 
 - Loops
 
-## [Week 5](https://github.com/codeyumm/http-5225/tree/954a98e20f1b71f15fb06e771c2b83af6f4edbb3/Lab/week5)
+## [Week 5](https://github.com/codeyumm/http-5225/blob/2d676a957339f0f0588fe4e2bebaf55f000c630a/Lab/week5/index.php)
 
 - Database connection
 
